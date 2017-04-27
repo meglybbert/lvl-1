@@ -1,0 +1,18 @@
+/* Stylehsheet */
+@import "semantic";
+
+html {
+  font-size: 10px;
+  background-image: url(/img/waves.jpg);
+  background-size: cover;
+}
+
+body,html {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+body {
+    display: flex;
+}
