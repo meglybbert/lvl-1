@@ -243,10 +243,82 @@
 		"sC": 0,
 		"tS": 0
 		},
+	"\/sounds\/ah.wav": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/sounds\/ah.wav",
+		"oF": 0
+		},
+	"\/sounds\/beep-01.wav": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/sounds\/beep-01.wav",
+		"oF": 0
+		},
+	"\/sounds\/beep-02.wav": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/sounds\/beep-02.wav",
+		"oF": 0
+		},
+	"\/sounds\/beep-03.wav": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/sounds\/beep-03.wav",
+		"oF": 0
+		},
+	"\/sounds\/beep-04.wav": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/sounds\/beep-04.wav",
+		"oF": 0
+		},
+	"\/sounds\/beep-05.wav": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/sounds\/beep-05.wav",
+		"oF": 0
+		},
+	"\/sounds\/beep-06.wav": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/sounds\/beep-06.wav",
+		"oF": 0
+		},
+	"\/sounds\/beep-07.wav": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/sounds\/beep-07.wav",
+		"oF": 0
+		},
+	"\/sounds\/beep-08.wav": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/sounds\/beep-08.wav",
+		"oF": 0
+		},
+	"\/sounds\/beep-09.wav": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/sounds\/beep-09.wav",
+		"oF": 0
+		},
+	"\/sounds\/boo.wav": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/sounds\/boo.wav",
+		"oF": 0
+		},
 	"\/sounds\/boom.wav": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/sounds\/boom.wav",
+		"oF": 0
+		},
+	"\/sounds\/carp-door.wav": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/sounds\/carp-door.wav",
 		"oF": 0
 		},
 	"\/sounds\/clap.wav": {
@@ -255,10 +327,28 @@
 		"oAP": "\/build\/sounds\/clap.wav",
 		"oF": 0
 		},
+	"\/sounds\/ding.wav": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/sounds\/ding.wav",
+		"oF": 0
+		},
+	"\/sounds\/harp.wav": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/sounds\/harp.wav",
+		"oF": 0
+		},
 	"\/sounds\/hihat.wav": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/sounds\/hihat.wav",
+		"oF": 0
+		},
+	"\/sounds\/key.wav": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/sounds\/key.wav",
 		"oF": 0
 		},
 	"\/sounds\/kick.wav": {
@@ -277,6 +367,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/sounds\/pew.wav",
+		"oF": 0
+		},
+	"\/sounds\/plane.wav": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/sounds\/plane.wav",
 		"oF": 0
 		},
 	"\/sounds\/ride.wav": {
