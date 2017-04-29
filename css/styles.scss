@@ -1,10 +1,8 @@
-/* Stylehsheet */
+/* Stylesheet */
 @import "semantic";
 
 html {
-  font-size: 10px;
-  background-image: url(/img/waves.jpg);
-  background-size: cover;
+  font-size: 15px;
 }
 
 body,html {
@@ -15,4 +13,15 @@ body,html {
 
 body {
     display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("/img/waves.jpg");
+    background-size: cover;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.3);
+    padding: 1em;
 }
