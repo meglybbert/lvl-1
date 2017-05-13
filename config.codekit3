@@ -393,7 +393,7 @@
 	"displayValue": "lvl-1",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-dunnoGirl",
-	"lastBuiltDate": 516394696
+	"lastBuiltDate": 514958191
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -1752,7 +1752,7 @@
 		},
 	"esLintSourceType": 0,
 	"externalServerAddress": "http:\/\/localhost:8888",
-	"gitIgnoreBuildFolder": 1,
+	"gitIgnoreBuildFolder": 0,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
 	"jsHintFlags2": {
